@@ -1,7 +1,6 @@
-                                             _    👋 Hi, I’m @HadeelAlwadia     _
+                                                  👋 Hi, I’m @HadeelAlwadia   
 
 ![This is an image](https://www11.0zz0.com/2022/12/20/19/774981112.jpg)
-Here is a simple footnote[^1].
 
 
 - 👀 I’m interested in ...
