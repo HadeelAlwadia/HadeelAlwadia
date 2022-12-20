@@ -1,4 +1,4 @@
-                                                 *  👋  Hi, I’m @HadeelAlwadiaThis text is italicized*       
+                                             _    👋 Hi, I’m @HadeelAlwadia     _
 
 ![This is an image](https://www11.0zz0.com/2022/12/20/19/774981112.jpg)
 
