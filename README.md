@@ -9,7 +9,7 @@
 
 👨‍💻 All of my projects are available at https://github.com/HadeelAlwadia
 
-💬 Ask me about React, javascript, Reduc, typescript
+💬 Ask me about Next, React, javascript, Reduc, typescript
 
 📫 How to reach me hadeelwadia@gmail.com
 
