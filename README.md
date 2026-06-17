@@ -1,20 +1,42 @@
-  👋 Hi, I’m @Hadeel Alwadia   
 
    ![This is an image](https://www11.0zz0.com/2022/12/20/19/774981112.jpg)
 
+# Hi, I'm @HadeelAlwadia 👋
 
-🔭 I’m currently working on React Ecommarce App
+**Software Engineer | MERN Stack Developer | Bridging Biomedical Science & Tech**
 
-🌱 I’m currently learning Node And Typescript
+I am passionate about building innovative, high-impact digital solutions. My focus is on creating scalable web applications that solve real-world problems, specifically in the health and aesthetic sectors.
 
-👨‍💻 All of my projects are available at https://github.com/HadeelAlwadia
+---
 
-💬 Ask me about Next, React, javascript, Reduc, typescript
+### 🚀 Featured Project: Aura Clinic
+**Aura Clinic: Clinical Management Suite**
+*A professional-grade management platform designed for medical aesthetic centers, featuring automated booking, staff scheduling, and streamlined patient data management.*
 
-📫 How to reach me hadeelwadia@gmail.com
+- 💡 **Core Technologies**: React, Node.js, MongoDB, Express (MERN Stack).
+- 🛠 **Focus**: Scalability, Clinical Workflow Automation, and Clean UI/UX.
+- 🔗 [View Aura Clinic Repository]https://front-end-system-weld.vercel.app/
 
-📄 Know about my experiences https://www.linkedin.com/in/hadeel-wadia-4755731bb/
-<!---
-HadeelAlwadia/HadeelAlwadia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 💻 Tech Stack
+- **Frontend**: React.js, Tailwind CSS, JavaScript (ES6+), TypeScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+### 📈 Currently Focusing On
+- Scaling and refining **Aura Clinic** for global medical aesthetic clinics.
+- Mastering advanced TypeScript patterns and Node.js performance optimization.
+
+---
+
+### 📬 Let's Connect
+- **Email**: hadeelwadia@gmail.com
+- **LinkedIn**: [Hadeel Wadia](https://www.linkedin.com/in/hadeel-wadia-4755731bb/)
+- **GitHub**: [HadeelAlwadia](https://github.com/HadeelAlwadia)
+
+---
+*Always learning, always building.*
